@@ -1,0 +1,32 @@
+﻿# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+ENV/
+
+# Data / Outputs
+dataset/
+runs/
+Wedding_Raw/
+*.zip
+*.txt
+*.log
+
+# Model outputs (if generated)
+*.onnx
+*.pt
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# User-specific
+*.user

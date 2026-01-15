@@ -1,0 +1,16 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+  <qresource prefix="/font">
+    <file alias="Roboto-Black.ttf">resources/Roboto-Black.ttf</file>
+    <file alias="Diner Bold.otf">resources/Diner Bold.otf</file>
+    <file alias="Popping-Cute.ttf">resources/Popping-Cute.ttf</file>
+  </qresource>
+  <qresource prefix="/image">
+    <file alias="kkk2.jpg">resources/kkk2.jpg</file>
+    <file alias="1.png">resources/1.png</file>
+    <file alias="2.png">resources/2.png</file>
+    <file alias="3.png">resources/3.png</file>
+    <file alias="Add a heading.png">resources/Add a heading.png</file>
+    <file alias="kkk3.jpg">resources/kkk3.jpg</file>
+  </qresource>
+</RCC>
